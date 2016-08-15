@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sarah-scherer]]></title>
+        <description><![CDATA[sarah-scherer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 20:06:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Actress. </p>]]></description>
+            <link>undefinedactress/index.html</link>
+            <guid isPermaLink="false">c8f430df-0552-4f0a-ae1c-f8b909d9a96e</guid>
+            <pubDate>Mon, 15 Aug 2016 20:06:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
